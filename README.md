@@ -7,9 +7,8 @@
 - Node JS
 
 ### Building a notes app using MERN stack.
-
-![image](https://user-images.githubusercontent.com/56730716/206178185-ba68fc72-62a1-491e-aab8-7ceb0d5721bb.png)
-
+- Creating and Connecting the MongoDB
+- To learn how we create APIs in ExpressJS
 
 ![image](https://user-images.githubusercontent.com/56730716/206151675-944718aa-5376-41a6-89e2-c2a7e888c79c.png)
 
@@ -59,3 +58,8 @@ Some key terms to understand
 React Hooks
 - useState
 - useEffect
+
+
+
+![image](https://user-images.githubusercontent.com/56730716/206178185-ba68fc72-62a1-491e-aab8-7ceb0d5721bb.png)
+
