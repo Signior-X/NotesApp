@@ -23,14 +23,12 @@ cd NotesApp
 
 First we create the server using:
 
-```
-npx express-generator --view=ejs server
-```
+https://expressjs.com/en/starter/hello-world.html
 
 Once the server is created,
 ```
 cd server
 npm install
-npm install cors dotenv
+npm install cors dotenv body-parser
 ```
 
